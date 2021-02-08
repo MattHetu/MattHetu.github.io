@@ -2,7 +2,7 @@
                 background-color: #F0EC78;
 }
         #nav-table {
-                width: 1024px;
+                width: 1024px; float: center
 }
         #nav-td {
                 width: 256px; text-align: center
