@@ -7,8 +7,11 @@
 }
         #nav-table {
                 width: 1024px; 
+         
+}
+        #div-buttons {
                 position: relative;
-                up: 50px;
+                up: 75px;
 }
         #nav-td {
                 width: 256px; text-align: center;
