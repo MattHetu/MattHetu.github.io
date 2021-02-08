@@ -1,10 +1,9 @@
-
-        
-          h1 {
-              
-          }  
-
-          body {
-              background-img:(url/main/myBanner.jpg)
-          }
-
+        body {
+                background-color: #F0EC78;
+}
+        #nav-table {
+                width: 1024px;
+}
+        #nav-td {
+                width: 256px; text-align: center
+}
